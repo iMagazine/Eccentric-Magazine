@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 30px 0;
+    background: rgba(33, 33, 33, .9);
+    width: 1830px;
+  }
+  #index .navigation ol {
+    display: inline;
+    padding: 0;
+  }
+  #index .navigation li {
+    display: inline-block;
+    margin-left: 30px;
+    overflow: hidden;
+    position: relative;
+    padding: 0;
+    width: 120px;
+    height: 160px;
+    vertical-align: top;
+    background:#fff:
+  }
+  #index .navigation li a {
+    display: block;
+    width: 120px;
+    height: 160px;
+    text-indent: -10000px;
+  }#index .navigation li.cover {background-image:url("../img/small/file-1752-1377685675-1.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2562 {background-image:url("../img/small/file-1752-1377685675-2.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2564 {background-image:url("../img/small/file-1752-1377685675-3.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2566 {background-image:url("../img/small/file-1752-1377685675-4.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2568 {background-image:url("../img/small/file-1752-1377685675-5.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2570 {background-image:url("../img/small/file-1752-1377685675-6.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2572 {background-image:url("../img/small/file-1752-1377685675-7.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2574 {background-image:url("../img/small/file-1752-1377685675-8.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2576 {background-image:url("../img/small/file-1752-1377685675-9.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2578 {background-image:url("../img/small/file-1752-1377685675-10.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2580 {background-image:url("../img/small/file-1752-1377685675-11.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} #index .navigation li.p2582 {background-image:url("../img/small/file-1752-1377685675-12.jpg"); background-position: center center; background-repeat: no-repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;} 
